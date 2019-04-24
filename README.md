@@ -12,7 +12,7 @@
 
 
 #### TO-DO ####
-- Photo Buying on website.
+- Nothing.
 
 ##### Credits #####
 - Harmonic 
